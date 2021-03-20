@@ -95,7 +95,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
-        url: /signup
+        url: /contactForm
         style: primary
   - section_id: recent-posts
     type: section_posts
