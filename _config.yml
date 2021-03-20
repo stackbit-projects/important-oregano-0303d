@@ -7,7 +7,7 @@ collections:
 base_font: nunito-sans
 palette: blue
 header:
-  logo_img: images/logo (1).png
+  logo_img: images/910c5670e465407487bb726d63784656.png
   logo_img_alt: Logo
   has_nav: true
   nav_links:
