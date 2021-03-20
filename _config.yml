@@ -80,7 +80,7 @@ footer:
           label: Email
           default_value: Enter email address
           is_required: true
-      submit_label: Subscribe
+      submit_label: Gt
   has_nav: true
   nav_links:
     - label: Terms of Service
