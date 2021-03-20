@@ -16,7 +16,9 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: What happens when marketing and technology experts get together.
+    subtitle: >-
+      What happens when marketing and technology experts get together. Your
+      business sky rocket.
     features:
       - title: Exclusive Leads
         image: images/feature1.png
